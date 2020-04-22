@@ -1,5 +1,5 @@
 FROM ubuntu
-MAINTAINER The abbasi <abbasigg@gmail.com>
+MAINTAINER The abbasi
 #ENV LC_ALL en_US.UTF-8
 
 
